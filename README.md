@@ -37,11 +37,11 @@ Aplicación interna para registrar, validar y dar seguimiento a solicitudes.
 
 ---
 
-### 3. Proyecto React – Componentes UI
-Práctica de desarrollo frontend con componentes reutilizables.
+### 3. Aplicación frontend para la gestión de historial veterinario y tickets, desarrollada con React usando arquitectura de componentes reutilizables.
 
-🔹 Tecnologías: React, JavaScript  
-🔹 Estado: En formación
+🔹 Tecnologías: React, JavaScript, Jira 
+🔹 Enfoque: Componentes reutilizables + gestión ágil 
+🔹 Estado: En desarrollo 
 
 ---
 
