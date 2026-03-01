@@ -1,31 +1,31 @@
 # 👩🏻‍💻 Alina Rodríguez  
-## Business Process & Power Platform Consultant  
-### Automatización | Transformación Digital | Análisis de Negocio  
+## Business Process Consultant | Digital Automation Specialist
 
 Bienvenido a mi portafolio profesional.
 
-Soy consultora funcional con experiencia en análisis, rediseño y automatización de procesos organizacionales mediante Microsoft Power Platform y tecnologías complementarias.
+Soy consultora especializada en análisis y transformación de procesos organizacionales mediante automatización digital.
 
-Mi enfoque no es solo desarrollar aplicaciones, sino diseñar soluciones que resuelvan problemas reales de negocio, integrando validaciones, flujos automatizados y control de datos.
-
----
-
-## 🎯 Enfoque Profesional
-
-Mi trabajo se centra en:
-
-- Levantamiento estructurado de requerimientos
-- Diseño de soluciones alineadas a objetivos de negocio
-- Automatización de procesos internos
-- Implementación end-to-end (desde análisis hasta puesta en producción)
-- Optimización operativa mediante herramientas low-code
-- Integración y actualización consistente de datos
-
-Busco aportar valor estratégico a través de la transformación digital de procesos organizacionales.
+Mi enfoque no se limita al desarrollo de aplicaciones, sino a identificar problemas de negocio, estructurar soluciones viables y liderar su implementación tecnológica.
 
 ---
 
-## 🚀 Proyectos Destacados
+## 🎯 Enfoque de Trabajo
+
+Trabajo bajo una metodología clara:
+
+1. Análisis del problema y levantamiento estructurado de requerimientos  
+2. Definición de reglas de negocio y validaciones  
+3. Diseño de solución funcional  
+4. Automatización del flujo operativo  
+5. Implementación y control de consistencia de datos  
+6. Medición de impacto en eficiencia operativa  
+
+La tecnología es el medio.  
+El objetivo siempre es optimizar el proceso.
+
+---
+
+## 🚀 Proyecto Destacado
 
 ### 🔹 VacationFlow – Automatización de Solicitudes de Vacaciones
 
@@ -69,18 +69,13 @@ Cada proyecto en este repositorio sigue un enfoque estructurado:
 
 ## 💼 Perfil Profesional
 
-A lo largo de mi carrera he liderado más de 100 implementaciones de soluciones internas, impactando áreas como Finanzas, Recursos Humanos, Operaciones y Compras.
+Más de 17 años de experiencia liderando e implementando soluciones tecnológicas que han impactado áreas como Finanzas, Recursos Humanos, Operaciones y Compras.
 
-He trabajado con equipos distribuidos y múltiples sedes internacionales, gestionando proyectos de manera estructurada y documentada.
+He gestionado más de 100 implementaciones end-to-end, colaborando con equipos distribuidos y múltiples sedes internacionales bajo un enfoque estructurado y documentado.
 
-Mi objetivo profesional es participar en iniciativas de transformación digital donde pueda combinar:
+Experiencia en análisis de negocio, validación con stakeholders y despliegue de soluciones orientadas a generar eficiencia operativa y valor medible.
 
-- Análisis de negocio
-- Diseño funcional
-- Automatización tecnológica
-- Liderazgo colaborativo
-
----
+Mi objetivo profesional es participar en iniciativas de transformación digital donde el análisis estratégico y la automatización impulsen mejoras sostenibles en los procesos organizacionales.
 
 ## 📫 Contacto
 
