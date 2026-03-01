@@ -1,51 +1,90 @@
-# Automation & Development Portfolio
+# 👩🏻‍💻 Alina Rodríguez  
+## Business Process & Power Platform Consultant  
+### Automatización | Transformación Digital | Análisis de Negocio  
 
-Hola, soy Alina 👋  
-Desarrolladora enfocada en automatización de procesos y creación de soluciones digitales.
+Bienvenido a mi portafolio profesional.
 
-Mi objetivo es optimizar flujos de trabajo, reducir tareas manuales y construir herramientas útiles para equipos y negocios.
+Soy consultora funcional con experiencia en análisis, rediseño y automatización de procesos organizacionales mediante Microsoft Power Platform y tecnologías complementarias.
 
-Me interesa trabajar en proyectos donde la tecnología ayude a las personas a trabajar mejor, no mas duro.
-
----
-
-## 🚀 En qué me especializo
-
-- Automatización de procesos
-- Desarrollo de apps internas
-- Integración de herramientas y servicios
-- Power Platform (Power Apps, Power Automate)
-- Desarrollo web con React (en formación)
+Mi enfoque no es solo desarrollar aplicaciones, sino diseñar soluciones que resuelvan problemas reales de negocio, integrando validaciones, flujos automatizados y control de datos.
 
 ---
 
-## 📂 Proyectos
+## 🎯 Enfoque Profesional
 
-### 1. Flujo de aprobación automatizado (Power Automate)
-Automatiza solicitudes internas con validaciones, aprobaciones y notificaciones por correo.
+Mi trabajo se centra en:
 
-🔹 Tecnologías: Power Automate, Forms, SharePoint  
-🔹 Estado: En progreso
+- Levantamiento estructurado de requerimientos
+- Diseño de soluciones alineadas a objetivos de negocio
+- Automatización de procesos internos
+- Implementación end-to-end (desde análisis hasta puesta en producción)
+- Optimización operativa mediante herramientas low-code
+- Integración y actualización consistente de datos
 
----
-
-### 2. App de gestión de solicitudes (Power Apps)
-Aplicación interna para registrar, validar y dar seguimiento a solicitudes.
-
-🔹 Tecnologías: Power Apps + Power Automate  
-🔹 Estado: En progreso
+Busco aportar valor estratégico a través de la transformación digital de procesos organizacionales.
 
 ---
 
-### 3. Aplicación frontend para la gestión de historial veterinario y tickets, desarrollada con React usando arquitectura de componentes reutilizables.
+## 🚀 Proyectos Destacados
 
-🔹 Tecnologías: React, JavaScript, Jira 
-🔹 Enfoque: Componentes reutilizables + gestión ágil 
-🔹 Estado: En desarrollo 
+### 🔹 VacationFlow – Automatización de Solicitudes de Vacaciones
+
+Solución integral desarrollada con Microsoft Power Platform que automatiza el ciclo completo de gestión de vacaciones.
+
+Incluye:
+
+- Interfaz de registro con validaciones de reglas de negocio
+- Flujo automatizado en Power Automate
+- Panel administrativo con indicadores clave
+- Proceso estructurado de aprobación y rechazo
+- Notificaciones automáticas por correo
+- Actualización automática de saldo disponible
+
+🔗 [Ver presentación completa del proyecto](https://github.com/alinarodriguez/VacationFlow/blob/main/docs/VisualOverview.md)
+
+---
+
+Cada proyecto en este repositorio sigue un enfoque estructurado:
+
+1. Identificación del problema de negocio
+2. Diseño de solución con reglas claras
+3. Automatización del flujo operativo
+4. Persistencia y consistencia de datos
+5. Documentación funcional
+
+---
+
+## 🛠 Tecnologías Utilizadas
+
+- Microsoft Power Apps (Canvas & Model-Driven)
+- Power Automate
+- SharePoint Online
+- Dataverse
+- SQL Server
+- .NET / C#
+- React / Next.js
+- Integración de APIs REST
+
+---
+
+## 💼 Perfil Profesional
+
+A lo largo de mi carrera he liderado más de 100 implementaciones de soluciones internas, impactando áreas como Finanzas, Recursos Humanos, Operaciones y Compras.
+
+He trabajado con equipos distribuidos y múltiples sedes internacionales, gestionando proyectos de manera estructurada y documentada.
+
+Mi objetivo profesional es participar en iniciativas de transformación digital donde pueda combinar:
+
+- Análisis de negocio
+- Diseño funcional
+- Automatización tecnológica
+- Liderazgo colaborativo
 
 ---
 
 ## 📫 Contacto
+
+Si deseas conectar o conocer más sobre mi experiencia profesional:
 
 - LinkedIn: https://www.linkedin.com/in/alinarodriguezglez/
 - Email: alinaRodriguez.g@gmail.com
