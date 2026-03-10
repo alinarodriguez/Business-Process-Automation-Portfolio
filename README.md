@@ -26,11 +26,9 @@ Process optimization is the objective.
 
 ---
 
-## 🚀 Proyecto Destacado
+## 🚀 Featured Project
 
-### 🔹 Featured Project
-
-## VacationFlow – Vacation Request Automation
+### 🔹 VacationFlow – Vacation Request Automation
 
 VacationFlow is a business process automation solution built with Microsoft Power Platform that manages the full lifecycle of employee vacation requests.
 
@@ -51,17 +49,42 @@ The solution includes:
 
 ---
 
-## 📂 Portfolio Projects
+## 🏢 Enterprise Automation Experience
 
-Each project in this repository follows a structured implementation model:
+### 🔹 Enterprise Process Automation Portfolio
 
-1. Business problem identification  
-2. Solution design with defined business rules  
-3. Process workflow automation  
-4. Data persistence and integrity control  
-5. Functional and technical documentation  
+Implementation of multiple internal automation solutions across different departments using Microsoft Power Platform.
 
-Additional projects included in this portfolio demonstrate automation solutions across multiple business domains such as HR, Finance, IT Services, and Internal Operations.
+Scope of implementation:
+
+- 100+ automation solutions developed
+- 500+ active users
+- Multiple departments supported
+- Finance, HR, IT, Operations and Procurement
+
+These solutions replaced manual coordination processes based on email and spreadsheets, improving visibility, traceability and operational efficiency.
+
+🔗 Project Overview  
+[Project Overview](https://github.com/alinarodriguez/Business-Process-Automation-Portfolio/blob/main/Projects/enterprise-process-automation/ProjectOverview.md)
+
+---
+
+## 📂 Additional Automation Projects
+
+### 🔹 Employee Training & Reimbursement Automation
+
+Automation solution that manages employee training requests and reimbursement processes through a structured workflow.
+
+Includes:
+
+- Training request submission
+- Approval workflow
+- Reimbursement management
+- Administrative monitoring interface
+- Automated notifications
+
+🔗 Project Overview  
+[Project Overview](https://github.com/alinarodriguez/Business-Process-Automation-Portfolio/blob/main/Projects/TrainingReimbursementManagement/ProjectOverview.md)
 
 ---
 
