@@ -44,10 +44,10 @@ The solution includes:
 - Automatic update of available vacation balance  
 
 📄 **Project overview** 
-🔗 [Ver presentación completa del proyecto](https://github.com/alinarodriguez/VacationFlow/blob/main/docs/VisualOverview.md)
+🔗 [Full Project Documentation](https://github.com/alinarodriguez/VacationFlow/blob/main/docs/VisualOverview.md)
 
 🎥 **Live Demo** 
-🔗 [Ver Demo](https://apps.powerapps.com/play/e/ffe0deb0-c299-edfa-92d5-9903a7298009/a/c313d658-f192-402e-a02f-761a4c4b3df7?tenantId=a1f7e7a8-fb21-4cc7-a09f-621c115dc404&amp;hint=91e1bbea-4285-4901-870a-85e233762d36&amp;sourcetime=1772081500868)
+🔗 [Live Application Demo](https://apps.powerapps.com/play/e/ffe0deb0-c299-edfa-92d5-9903a7298009/a/c313d658-f192-402e-a02f-761a4c4b3df7?tenantId=a1f7e7a8-fb21-4cc7-a09f-621c115dc404&amp;hint=91e1bbea-4285-4901-870a-85e233762d36&amp;sourcetime=1772081500868)
 
 ---
 
