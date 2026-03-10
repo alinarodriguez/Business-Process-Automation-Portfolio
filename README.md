@@ -1,91 +1,112 @@
 # 👩🏻‍💻 Alina Rodríguez  
 ## Business Process Consultant | Digital Automation Specialist
 
-Bienvenido a mi portafolio profesional.
+Welcome to my professional portfolio.
 
-Soy consultora especializada en análisis y transformación de procesos organizacionales mediante automatización digital.
+I specialize in analyzing and transforming organizational processes through digital automation. My work focuses on understanding business problems, designing structured solutions, and implementing technology that improves operational efficiency.
 
-Mi enfoque no se limita al desarrollo de aplicaciones, sino a identificar problemas de negocio, estructurar soluciones viables y liderar su implementación tecnológica.
+My approach goes beyond application development.  
+The goal is always to optimize the underlying process.
 
 ---
 
-## 🎯 Enfoque de Trabajo
+## 🎯 Working Approach
 
-Trabajo bajo una metodología clara:
+I follow a structured methodology when designing automation solutions:
 
-1. Análisis del problema y levantamiento estructurado de requerimientos  
-2. Definición de reglas de negocio y validaciones  
-3. Diseño de solución funcional  
-4. Automatización del flujo operativo  
-5. Implementación y control de consistencia de datos  
-6. Medición de impacto en eficiencia operativa  
+1. Business problem analysis and structured requirements gathering  
+2. Definition of business rules and validation logic  
+3. Functional solution design  
+4. Process workflow automation  
+5. Data consistency and persistence control  
+6. Operational efficiency measurement  
 
-La tecnología es el medio.  
-El objetivo siempre es optimizar el proceso.
+Technology is the tool.  
+Process optimization is the objective.
 
 ---
 
 ## 🚀 Proyecto Destacado
 
-### 🔹 VacationFlow – Automatización de Solicitudes de Vacaciones
+### 🔹 Featured Project
 
-Solución integral desarrollada con Microsoft Power Platform que automatiza el ciclo completo de gestión de vacaciones.
+## VacationFlow – Vacation Request Automation
 
-Incluye:
+VacationFlow is a business process automation solution built with Microsoft Power Platform that manages the full lifecycle of employee vacation requests.
 
-- Interfaz de registro con validaciones de reglas de negocio
-- Flujo automatizado en Power Automate
-- Panel administrativo con indicadores clave
-- Proceso estructurado de aprobación y rechazo
-- Notificaciones automáticas por correo
-- Actualización automática de saldo disponible
+The solution includes:
 
+- User interface for request submission with business rule validations  
+- Automated approval workflow using Power Automate  
+- Administrative panel with key indicators  
+- Structured approval and rejection process  
+- Automated email notifications  
+- Automatic update of available vacation balance  
+
+📄 **Project overview** 
 🔗 [Ver presentación completa del proyecto](https://github.com/alinarodriguez/VacationFlow/blob/main/docs/VisualOverview.md)
 
+🎥 **Live Demo** 
 🔗 [Ver Demo](https://apps.powerapps.com/play/e/ffe0deb0-c299-edfa-92d5-9903a7298009/a/c313d658-f192-402e-a02f-761a4c4b3df7?tenantId=a1f7e7a8-fb21-4cc7-a09f-621c115dc404&amp;hint=91e1bbea-4285-4901-870a-85e233762d36&amp;sourcetime=1772081500868)
 
 ---
 
-Cada proyecto en este repositorio sigue un enfoque estructurado:
+## 📂 Portfolio Projects
 
-1. Identificación del problema de negocio
-2. Diseño de solución con reglas claras
-3. Automatización del flujo operativo
-4. Persistencia y consistencia de datos
-5. Documentación funcional
+Each project in this repository follows a structured implementation model:
+
+1. Business problem identification  
+2. Solution design with defined business rules  
+3. Process workflow automation  
+4. Data persistence and integrity control  
+5. Functional and technical documentation  
+
+Additional projects included in this portfolio demonstrate automation solutions across multiple business domains such as HR, Finance, IT Services, and Internal Operations.
 
 ---
 
-## 🛠 Tecnologías Utilizadas
+## 🛠 Technologies
 
 - Microsoft Power Apps (Canvas & Model-Driven)
-- Power Automate
+- Microsoft Power Automate
+- Microsoft Dataverse
 - SharePoint Online
-- Dataverse
-- SQL Server
-- .NET / C#
-- React / Next.js
-- Integración de APIs REST
+- Power Platform integrations
 
 ---
 
-## 💼 Perfil Profesional
+## 🧠 Core Expertise
 
-Más de 17 años de experiencia liderando e implementando soluciones tecnológicas que han impactado áreas como Finanzas, Recursos Humanos, Operaciones y Compras.
-
-He gestionado más de 100 implementaciones end-to-end, colaborando con equipos distribuidos y múltiples sedes internacionales bajo un enfoque estructurado y documentado.
-
-Experiencia en análisis de negocio, validación con stakeholders y despliegue de soluciones orientadas a generar eficiencia operativa y valor medible.
-
-Mi objetivo profesional es participar en iniciativas de transformación digital donde el análisis estratégico y la automatización impulsen mejoras sostenibles en los procesos organizacionales.
-
-## 📫 Contacto
-
-Si deseas conectar o conocer más sobre mi experiencia profesional:
-
-- LinkedIn: https://www.linkedin.com/in/alinarodriguezglez/
-- Email: alinaRodriguez.g@gmail.com
+- Business Process Analysis  
+- Process Automation  
+- Workflow Design  
+- Business Rule Modeling  
+- Digital Process Transformation
 
 ---
 
-Gracias por visitar mi portafolio 🙂
+## 💼 Professional Profile
+
+I bring more than **17 years of experience designing and implementing technology solutions** across areas such as Finance, Human Resources, Operations, and Procurement.
+
+Throughout my career I have led and delivered **100+ end-to-end implementations**, collaborating with distributed teams across multiple international locations.
+
+My work combines business analysis, stakeholder validation, and technology implementation to deliver automation solutions that produce measurable operational improvements.
+
+I am particularly interested in digital transformation initiatives where structured process analysis and automation drive sustainable improvements in organizational performance.
+
+---
+
+## 📫 Contact
+
+If you would like to connect or learn more about my professional experience:
+
+LinkedIn  
+https://www.linkedin.com/in/alinarodriguezglez/
+
+Email  
+alinaRodriguez.g@gmail.com
+
+---
+
+Thank you for visiting my portfolio.🙂
