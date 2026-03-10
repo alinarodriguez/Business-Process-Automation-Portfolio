@@ -2,6 +2,8 @@
 
 ## Business Problem
 
+![Main Dashboard](screenshots/main_dashboard.png)
+
 Many organizations manage employee training requests and reimbursement processes through email, spreadsheets, or informal communication channels.
 
 This creates several operational issues:
