@@ -64,8 +64,7 @@ Scope of implementation:
 
 These solutions replaced manual coordination processes based on email and spreadsheets, improving visibility, traceability and operational efficiency.
 
-🔗 Project Overview  
-[Project Overview](https://github.com/alinarodriguez/Business-Process-Automation-Portfolio/blob/main/Projects/enterprise-process-automation/ProjectOverview.md)
+🔗 [Project Overview](https://github.com/alinarodriguez/Business-Process-Automation-Portfolio/blob/main/Projects/enterprise-process-automation/ProjectOverview.md)
 
 ---
 
@@ -83,8 +82,7 @@ Includes:
 - Administrative monitoring interface
 - Automated notifications
 
-🔗 Project Overview  
-[Project Overview](https://github.com/alinarodriguez/Business-Process-Automation-Portfolio/blob/main/Projects/TrainingReimbursementManagement/ProjectOverview.md)
+🔗 [Project Overview](https://github.com/alinarodriguez/Business-Process-Automation-Portfolio/blob/main/Projects/TrainingReimbursementManagement/ProjectOverview.md)
 
 ---
 
