@@ -1,5 +1,15 @@
 # Employee Training & Reimbursement Automation
 
+## Project Context
+
+This project was developed to digitalize the internal process for managing employee training requests and reimbursement submissions.
+
+The solution supports administrative teams by providing a centralized platform where employees can submit requests, track approvals, and manage reimbursement documentation.
+
+The objective was to replace manual coordination through email and spreadsheets with a structured and traceable workflow.
+
+---
+
 ## Business Problem
 
 ![Main Dashboard](screenshots/main_dashboard.png)
@@ -110,6 +120,20 @@ Administrative interface used to monitor and manage reimbursement requests.
 - Status tracking for submitted requests
 - Role-based access control
 - Centralized request visibility
+
+---
+
+## Process Automation Highlights
+
+The solution introduces several automation improvements:
+
+- Automated routing of training requests for approval
+- Structured tracking of reimbursement submissions
+- Centralized request monitoring for administrators
+- Reduction of manual coordination between departments
+- Standardized documentation handling
+
+These improvements streamline the process and increase operational transparency.
 
 ---
 
