@@ -84,6 +84,24 @@ Includes:
 
 🔗 [Project Overview](https://github.com/alinarodriguez/Business-Process-Automation-Portfolio/blob/main/Projects/TrainingReimbursementManagement/ProjectOverview.md)
 
+
+### 🔹 IT Service Request System
+
+Automation solution designed to manage internal IT service requests through a centralized application.
+
+The system allows employees to submit support requests while enabling IT teams to track, assign and manage service tickets through a structured workflow.
+
+Key capabilities include:
+
+- Centralized IT service request submission
+- Request tracking and status management
+- Assignment of support responsibilities
+- Administrative monitoring interface
+- Improved visibility of internal IT support operations
+
+🔗 Project Overview  
+https://github.com/alinarodriguez/portfolio/tree/main/projects/it-service-request-system
+
 ---
 
 ## 🛠 Technologies
