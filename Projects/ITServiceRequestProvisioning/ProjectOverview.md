@@ -47,7 +47,7 @@ The system follows a structured service request lifecycle that includes request 
 
 The following diagram illustrates the automated lifecycle of an IT service request, from submission to final service provisioning.
 
-
+![ProcessFlow](Images/FlujoITRequest.png)
 
 ---
 
@@ -81,6 +81,40 @@ The solution automates the full lifecycle of IT service provisioning requests.
 - **Automated status updates** (In Progress, In Review, Completed)
 - **Email notifications** at key process stages
 - **Scheduled reminder notifications** sent daily at 5 AM for pending approvals
+
+---
+
+## Solution Architecture
+
+The solution was built using Microsoft Power Platform integrated with Microsoft 365 services to automate the IT service request lifecycle.
+
+![Architecture](Images/ITRequest_Arquitectura.png)
+
+----
+
+## Application Screenshots
+
+### Service Request Form
+
+The request form dynamically adapts based on the type of user and requested services.
+
+![Service Request Form](Screenshoots/request_form.png)
+
+---
+
+### Approval Center
+
+Coordinators and security personnel can review and approve individual items within a service request.
+
+![Approval Center](Screenshoots/approval-center.png)
+
+---
+
+### Request Details
+
+Users and administrators can track the status of requests throughout the approval and execution process.
+
+![Request Tracking](Screenshoots/request-tracking.png)
 
 ---
 
