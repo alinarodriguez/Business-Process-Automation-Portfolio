@@ -1,4 +1,4 @@
-# IT Services Request & Provisioning System
+# IT Service Request & Provisioning System
 
 ## Project Overview
 
@@ -7,6 +7,20 @@ The IT Services Request & Provisioning System is a centralized business process 
 The system enables employees and external personnel (outsourcing staff) to formally submit service requests through a structured workflow that includes validation, multi-level approvals, and execution by the IT Service Desk team.
 
 Built using Microsoft Power Platform, the solution digitizes the entire lifecycle of IT service provisioning, improving transparency, compliance, and operational efficiency.
+
+---
+
+## Process Scope
+
+The system manages the lifecycle of internal IT service provisioning requests, including:
+
+- Network and system account provisioning
+- Email access requests
+- Computer equipment allocation
+- Replacement or reassignment of employee access
+- Security validation for external personnel
+
+The solution supports requests for both internal employees and external contractors across multiple organizational units.
 
 ---
 
@@ -120,11 +134,11 @@ Users and administrators can track the status of requests throughout the approva
 
 ## Technology Stack
 
-- **Power Apps (Canvas App)** – User interface and request submission portal
-- **Power Automate** – Workflow automation and notifications
-- **SharePoint Online** – Application access and request data repository
-- **Active Directory** – Automatic retrieval of user profile information
-- **Microsoft Excel** – Reporting and data export
+- **Power Apps (Canvas App)** – User interface for service request submission
+- **Power Automate** – Workflow automation, approval routing, and notifications
+- **SharePoint Online** – Centralized request repository
+- **Azure Active Directory** – User identity and profile integration
+- **Microsoft Excel** – Exportable reporting for request history
 
 ---
 
