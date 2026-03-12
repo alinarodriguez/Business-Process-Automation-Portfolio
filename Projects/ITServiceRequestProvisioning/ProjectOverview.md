@@ -112,7 +112,7 @@ The solution was built using Microsoft Power Platform integrated with Microsoft 
 
 The request form dynamically adapts based on the type of user and requested services.
 
-![Service Request Form](Screenshoots/request_form.png)
+![Service Request Form](Screenshots/request_form.png)
 
 ---
 
@@ -120,7 +120,7 @@ The request form dynamically adapts based on the type of user and requested serv
 
 Coordinators and security personnel can review and approve individual items within a service request.
 
-![Approval Center](Screenshoots/approval-center.png)
+![Approval Center](Screenshots/approval-center.png)
 
 ---
 
@@ -128,7 +128,7 @@ Coordinators and security personnel can review and approve individual items with
 
 Users and administrators can track the status of requests throughout the approval and execution process.
 
-![Request Tracking](Screenshoots/request-tracking.png)
+![Request Tracking](Screenshots/request-tracking.png)
 
 ---
 
