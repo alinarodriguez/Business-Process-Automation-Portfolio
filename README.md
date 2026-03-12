@@ -99,8 +99,7 @@ Key capabilities include:
 - Administrative monitoring interface
 - Improved visibility of internal IT support operations
 
-🔗 Project Overview  
-https://github.com/alinarodriguez/portfolio/tree/main/projects/it-service-request-system
+🔗 [Project Overview](https://github.com/alinarodriguez/Business-Process-Automation-Portfolio/blob/main/Projects/ITServiceRequestProvisioning/ProjectOverview.md)
 
 ---
 
