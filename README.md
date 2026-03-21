@@ -1,7 +1,7 @@
 # 👩🏻‍💻 Alina Rodríguez  
 ## Business Process Consultant | Digital Automation Specialist
 
-Welcome to my professional portfolio.
+> Power Platform specialist focused on designing and implementing business-driven automation solutions.
 
 I specialize in analyzing and transforming organizational processes through digital automation. My work focuses on understanding business problems, designing structured solutions, and implementing technology that improves operational efficiency.
 
@@ -51,6 +51,8 @@ The solution includes:
 
 Knowledge Hub is a centralized content management solution built with Microsoft Power Platform that enables organizations to collect, review and publish internal and external resources in a structured way.
 
+This project focuses on content lifecycle management rather than transactional workflows, introducing a publish/unpublish model similar to modern CMS platforms.
+
 The solution includes:
 
 - Resource submission interface with validation and URL preview  
@@ -63,8 +65,12 @@ The solution includes:
 📄 **Project overview**  
 🔗 [Full Project Documentation](https://github.com/alinarodriguez/KnowledgeHub/blob/main/README.md)
 
-🎥 **Live Demo**  
-🔗 [Live Application Demo](https://github.com/alinarodriguez/KnowledgeHub/tree/main/Demo/LiveDemo.mp4)
+🎥 **Demo (Full lifecycle: submit → review → publish)**
+<p align="left">
+  <a href="https://youtu.be/jh96pqa0ma0">
+    <img src="https://github.com/alinarodriguez/KnowledgeHub/blob/main/Screenshots/Home.png" alt="Watch Demo" width="400"/>
+  </a>
+</p>
 
 ---
 
@@ -72,7 +78,7 @@ The solution includes:
 
 ### 🔹 Enterprise Process Automation Portfolio
 
-Implementation of multiple internal automation solutions across different departments using Microsoft Power Platform.
+Design and implementation of large-scale automation solutions across multiple enterprise departments using Microsoft Power Platform.
 
 Scope of implementation:
 
@@ -124,11 +130,9 @@ Key capabilities include:
 
 ## 🛠 Technologies
 
-- Microsoft Power Apps (Canvas & Model-Driven)
-- Microsoft Power Automate
-- Microsoft Dataverse
+- Microsoft Power Platform (Power Apps, Power Automate, Dataverse)
 - SharePoint Online
-- Power Platform integrations
+- API integrations
 
 ---
 
@@ -144,7 +148,7 @@ Key capabilities include:
 
 ## 💼 Professional Profile
 
-I bring more than **17 years of experience designing and implementing technology solutions** across areas such as Finance, Human Resources, Operations, and Procurement.
+I bring **17+ years of experience designing and implementing technology solutions** across areas such as Finance, Human Resources, Operations, and Procurement.
 
 Throughout my career I have led and delivered **100+ end-to-end implementations**, collaborating with distributed teams across multiple international locations.
 
