@@ -64,7 +64,7 @@ The solution includes:
 🔗 [Full Project Documentation](https://github.com/alinarodriguez/KnowledgeHub/blob/main/README.md)
 
 🎥 **Live Demo**  
-🔗 [Live Application Demo](#)
+🔗 [Live Application Demo](https://github.com/alinarodriguez/KnowledgeHub/tree/main/Demo/LiveDemo.mp4)
 
 ---
 
