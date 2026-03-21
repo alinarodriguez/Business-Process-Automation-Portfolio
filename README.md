@@ -47,6 +47,25 @@ The solution includes:
 🎥 **Live Demo** 
 🔗 [Live Application Demo](https://apps.powerapps.com/play/e/ffe0deb0-c299-edfa-92d5-9903a7298009/a/c313d658-f192-402e-a02f-761a4c4b3df7?tenantId=a1f7e7a8-fb21-4cc7-a09f-621c115dc404&amp;hint=91e1bbea-4285-4901-870a-85e233762d36&amp;sourcetime=1772081500868)
 
+### 🔹 Knowledge Hub – Resource Management & Publishing Platform
+
+Knowledge Hub is a centralized content management solution built with Microsoft Power Platform that enables organizations to collect, review and publish internal and external resources in a structured way.
+
+The solution includes:
+
+- Resource submission interface with validation and URL preview  
+- Content management screen with status control (Pending, Published, Hidden)  
+- Publishing workflow to control resource visibility  
+- Integration with external CMS (Contentful) via Power Automate  
+- Unified view combining internal and external data sources  
+- Modern UI with filtering, search and category-based navigation  
+
+📄 **Project overview**  
+🔗 [Full Project Documentation](https://github.com/alinarodriguez/KnowledgeHub/blob/main/README.md)
+
+🎥 **Live Demo**  
+🔗 [Live Application Demo](#)
+
 ---
 
 ## 🏢 Enterprise Automation Experience
